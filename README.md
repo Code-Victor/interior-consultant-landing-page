@@ -40,7 +40,7 @@
 
 A Dark UI page of a landing page with mobile navigation.
 My biggest take aways are
-- Using positon relative and still making it relative
+- Using positon relative and still making it responsive 
 - building a mobile navigation
 
 ### Built With
